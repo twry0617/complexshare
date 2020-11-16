@@ -1,6 +1,9 @@
 # complex_share
 自分の悩みを相談するアプリ
 
+過去のcommitはこちらのURLにまとめております。
+https://github.com/twry0617/complex_share
+
  
 # アプリケーション概要
  
